@@ -57,7 +57,17 @@ This table defines all the parameters used in the implementation of the model.
 
 
 
-
+````latex
+@ARTICLE{5557813,
+  author={Li, Chunming and Xu, Chenyang and Gui, Changfeng and Fox, Martin D.},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Distance Regularized Level Set Evolution and Its Application to Image Segmentation}, 
+  year={2010},
+  volume={19},
+  number={12},
+  pages={3243-3254},
+  doi={10.1109/TIP.2010.2069690}}
+````
 
 
 
