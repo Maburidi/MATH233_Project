@@ -48,6 +48,16 @@ This table defines all the parameters used in the implementation of the model.
 
 
 
+# Results: 
+
+
+<img width="753" alt="image" src="https://user-images.githubusercontent.com/48891624/203199646-e8e5d68e-c918-4a10-bdcb-d3bde6380b0a.png">
+
+<img width="937" alt="image" src="https://user-images.githubusercontent.com/48891624/203199700-831ff7a0-df10-4d0c-ab99-27127fc73b2a.png">
+
+
+
+
 
 
 
