@@ -27,9 +27,9 @@ g++ -o output main.cpp
  
 ```
 
-The argument in the command line above in order is as follows: \\
-Image to be segmented:     
-$\lambda$:                 
+The argument in the command line above in order is as follows: <br />
+Image to be segmented:     <br />
+$\lambda$          <br />       
 
 
 
