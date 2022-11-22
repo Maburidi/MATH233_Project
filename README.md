@@ -17,8 +17,15 @@ OpenCV – 4.5.5
 [OpenCV](https://opencv.org/) As of this writing, the version installed from this github [github](https://github.com/opencv/opencv) is returning OpenCV 4.5.5
 
 
+After installing the dependencies. The project can be built using g++, in the terminal run the following:  
 
-
+```
+git clode https://github.com/Maburidi/MATH233_Project.git
+cd MATH233_Project 
+g++ -o output main.cpp  
+./output  ./input_imgs ./output_imgs 0.5 -3.0 0.2 1.5 0.8 1 2 200 
+ 
+```
 
 
 
