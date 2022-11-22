@@ -41,6 +41,12 @@ The argument in the command line above in order is as follows: <br />
 12- Boxs positions to create the initial level set. Should be divisible by 4. (i.e. four courners $[y_1,y_0,x_0,x_1]$) 
 
 
+### Discriptio of the parameters:  
+
+This table defines all the parameters used in the implementation of the model. 
+<img width="1119" alt="image" src="https://user-images.githubusercontent.com/48891624/203199443-167bf55a-bbdb-45aa-a015-b4c938c7280c.png">
+
+
 
 
 
