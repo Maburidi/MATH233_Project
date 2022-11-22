@@ -27,6 +27,13 @@ g++ -o output main.cpp
  
 ```
 
+The order of the argument in the command line above is as follows: 
+
+$\lambda$
+
+
+
+
 
 
 
