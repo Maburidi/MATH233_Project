@@ -28,9 +28,17 @@ g++ -o output main.cpp
 ```
 
 The argument in the command line above in order is as follows: <br />
-Image to be segmented:     <br />
-$\lambda$          <br />       
-
+1- Image directory to be segmented    <br />
+2- Output image directory to be saved in <br />
+3- $\lambda$          <br />       
+4- $\alpha$ <br />      
+5- $\mu$. <br />      
+6- $\epsilon$ <br />      
+7- $\sigma$ <br />      
+8- $\Delta t$ <br />      
+9- $c_0$ <br />      
+10- $Iter$  <br />      
+12- Boxs positions to create the initial level set. Should be divisible by 4. (i.e. four courners $[y_1,y_0,x_0,x_1]$) 
 
 
 
