@@ -38,7 +38,7 @@ The argument in the command line above in order is as follows: <br />
 8- $\Delta t$ <br />      
 9- $c_0$ <br />      
 10- $Iter$  <br />      
-12- Boxs positions to create the initial level set. Should be divisible by 4. (i.e. four courners $[y_1,y_0,x_0,x_1]$) 
+1- Boxs positions to create the initial level set. Should be divisible by 4. (i.e. four courners $[y_1,y_0,x_0,x_1]$) 
 
 
 ### Discriptio of the parameters:  
