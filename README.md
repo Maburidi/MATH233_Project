@@ -33,24 +33,22 @@ The argument in the command line above in order is as follows: <br />
 1- Image directory to be segmented    <br />
 2- Directory to save segmented image  <br />
 3- Time step <br />
-3- Number of Iterations <br />
-4- 
-
-
-2- Output image directory to be saved in <br />
-3- $\lambda$          <br />       
-4- $\alpha$ <br />      
-5- $\mu$. <br />      
-6- $\epsilon$ <br />      
-7- $\sigma$ <br />      
-8- $\Delta t$ <br />      
-9- $c_0$ <br />      
-10- $Iter$  <br />      
-12- Boxs positions to create the initial level set. Should be divisible by 4. (i.e. four courners $[y_1,y_0,x_0,x_1]$) 
-
-
-
-
+4- Number of Iterations <br />
+5- $\lambda$          <br />       
+6- $\alpha$ <br />      
+7- $\epsilon$ <br />      
+8- $\sigma$ <br />      
+9- $\mu$. <br />   
+10- $c_0$ <br />  
+11- Number of 2d squares to be created in the image mask (for initial level set) <br />  
+12- square 1 corner 1 <br />  
+13- square 1 corner 2 <br />  
+14- square 1 corner 3 <br />  
+15- square 1 corner 4 <br />  
+16- square 2 corner 1 <br />  
+17- square 2 corner 2 <br />  
+18- square 2 corner 3 <br />  
+19- square 2 corner 4 <br />  
 
 
 ### Discriptio of the parameters:  
