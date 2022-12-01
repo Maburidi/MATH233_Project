@@ -41,6 +41,18 @@ The argument in the command line above in order is as follows: <br />
 12- Boxs positions to create the initial level set. Should be divisible by 4. (i.e. four courners $[y_1,y_0,x_0,x_1]$) 
 
 
+To segment an image using level set method, run the following two commands using g++:
+
+```
+g++ -o output main.cpp 
+
+./output /Users/maburidi/Desktop/MATH233_project_/img8.bmp  /Users/maburidi/Desktop/output_image.jpg 1. 200 5. -3. 1.5 0.8 0.2 2. 2 24 35 19 25 24 35 39 50
+
+
+```
+
+
+
 ### Discriptio of the parameters:  
 
 This table defines all the parameters used in the implementation of the model. 
