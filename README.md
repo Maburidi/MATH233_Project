@@ -23,12 +23,20 @@ After installing the dependencies. The project can be built using g++, in the te
 git clode https://github.com/Maburidi/MATH233_Project.git
 cd MATH233_Project 
 g++ -o output main.cpp  
-./output  ./input_imgs/img8.bmp ./output_imgs/output_img8.jpg 0.5 -3.0 0.2 1.5 0.8 1 2 200 [24,35,19,25,24,35,39,50]
+ 
+./output /Users/maburidi/Desktop/MATH233_project_/img8.bmp  /Users/maburidi/Desktop/output_image.jpg 1. 200 5. -3. 1.5 0.8 0.2 2. 2 24 35 19 25 24 35 39 50
+ 
  
 ```
 
 The argument in the command line above in order is as follows: <br />
 1- Image directory to be segmented    <br />
+2- Directory to save segmented image  <br />
+3- Time step <br />
+3- Number of Iterations <br />
+4- 
+
+
 2- Output image directory to be saved in <br />
 3- $\lambda$          <br />       
 4- $\alpha$ <br />      
@@ -41,15 +49,7 @@ The argument in the command line above in order is as follows: <br />
 12- Boxs positions to create the initial level set. Should be divisible by 4. (i.e. four courners $[y_1,y_0,x_0,x_1]$) 
 
 
-To segment an image using level set method, run the following two commands using g++:
 
-```
-g++ -o output main.cpp 
-
-./output /Users/maburidi/Desktop/MATH233_project_/img8.bmp  /Users/maburidi/Desktop/output_image.jpg 1. 200 5. -3. 1.5 0.8 0.2 2. 2 24 35 19 25 24 35 39 50
-
-
-```
 
 
 
