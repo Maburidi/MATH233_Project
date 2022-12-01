@@ -22,6 +22,7 @@ using namespace std;
 
 
 
+
 int main(int argc, char** argv){
 
     ///////////////////////////////// Read Inputs /////////////////////////////////
@@ -110,8 +111,6 @@ int main(int argc, char** argv){
     // Scharr(img, dsty, CV_8U, 0, 1, 1, 0, BORDER_DEFAULT);
 
      Mat f = dstx.mul(dstx) + dsty.mul(dsty);
-     //f.convertTo(f, CV_32F);
-     // imshow("Image2", f);
 
      Mat g = 1./(1.+f);
      g.convertTo(g, CV_32F);
