@@ -24,7 +24,7 @@ git clode https://github.com/Maburidi/MATH233_Project.git
 cd MATH233_Project 
 g++ -o output main.cpp  
  
-./output /Users/maburidi/Desktop/MATH233_project_/img8.bmp  /Users/maburidi/Desktop/output_image.jpg 1. 200 5. -3. 1.5 0.8 0.2 2. 2 24 35 19 25 24 35 39 50
+./output ./input_imgs/img8.bmp  ./output_image.jpg 1. 200 5. -3. 1.5 0.8 0.2 2. 2 24 35 19 25 24 35 39 50
  
  
 ```
