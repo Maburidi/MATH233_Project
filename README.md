@@ -77,6 +77,6 @@ variational formulation. In 2005 IEEE Computer Society Conference on Computer Vi
 (CVPR’05), volume 1, pages 430–436 vol. 1, 2005.
 
 ```
-
+ 
 
 
