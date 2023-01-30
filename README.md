@@ -48,7 +48,7 @@ The argument in the command line above in order is as follows: <br />
 16- square 2 corner 1 <br />  
 17- square 2 corner 2 <br />  
 18- square 2 corner 3 <br />  
-1- square 2 corner 4 <br />  
+19- square 2 corner 4 <br />  
 
 
 ### Discriptio of the parameters:  
