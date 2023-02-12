@@ -74,7 +74,7 @@ application to image segmentation. IEEE Transactions on Image Processing, 19(12)
 
 [2]  Chunming Li, Chenyang Xu, Changfeng Gui, and M.D. Fox. Level set evolution without re-initialization: a new
 variational formulation. In 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition
-(CVPR’05), volume 1, pages 430–436 vol. 1, 2005.
+(CVPR’05), volume 1, pages 430–436 vol. 1, 2005.  
 
 ``` 
  
