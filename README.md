@@ -7,7 +7,7 @@ Comments/Bugs/Problems: maburidi@ucmerced.edu
 November, 2022. Initial release
 
 
-## C++ Code
+## C++ Code:
 
 ### Building
 This README covers instructions for building the code and using the following example for image segmentation  
